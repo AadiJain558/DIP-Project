@@ -136,6 +136,6 @@ This project was built as an exploration of classical digital image processing c
 
 ## 👤 Author
 
-**Nancy Poonia**
-🔗 [GitHub](https://github.com/nancypoonia)
+**Aadi Jain**
+🔗 [GitHub](https://github.com/aadijain558)
 
